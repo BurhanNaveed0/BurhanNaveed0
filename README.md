@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bun@njit.edu**
 
-- ⚡ Fun fact: **I love going to the gym**
+- ⚡ Fun fact: **I love pumping iron 💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
