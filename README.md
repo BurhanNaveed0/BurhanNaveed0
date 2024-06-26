@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burhannaveed0&label=Profile%20views&color=0e75b6&style=flat" alt="burhannaveed0" /> </p>
 
-- 🔭 I’m currently working on **Macros Tracking App**
+- 🔭 I’m currently working on the **Rackify Mobile App**
 
 - 🌱 I’m currently learning **React Native, MySQL, AWS**
 
