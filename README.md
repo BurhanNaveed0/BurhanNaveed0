@@ -6,15 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burhannaveed0&label=Profile%20views&color=0e75b6&style=flat" alt="burhannaveed0" /> </p>
 
-- 🔭 I’m currently working on the **Rackify Mobile App**
+- 🔭 I’m currently working on a ** 2D Multiplayer Shooter(Gun Mayhem Clone) in Unity**
 
 - 🌱 I’m currently learning **React Native, MySQL, AWS**
 
 - 💬 Ask me about **Android Studio, React.js, Node.js**
 
 - 📫 How to reach me **bun@njit.edu**
-
-- ⚡ Fun fact: **I love pumping iron 💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
