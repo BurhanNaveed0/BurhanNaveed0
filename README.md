@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native, MySQL, AWS**
 
-- 💬 Ask me about **Android Studio, React.js, Node.js**
+- 💬 Ask me about **Android Studio, React.js, Node.js, or Unity**
 
 - 📫 How to reach me **bun@njit.edu**
 
