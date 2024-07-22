@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=burhannaveed0&label=Profile%20views&color=0e75b6&style=flat" alt="burhannaveed0" /> </p>
 
-- 🔭 I’m currently working on a ** 2D Multiplayer Shooter(Gun Mayhem Clone) in Unity**
+- 🔭 I’m currently working on a **2D Multiplayer Shooter(Gun Mayhem Clone) in Unity**
 
 - 🌱 I’m currently learning **React Native, MySQL, AWS**
 
